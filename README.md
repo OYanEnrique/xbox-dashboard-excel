@@ -9,9 +9,7 @@ Dashboard interativo de análise de assinaturas do **Xbox Game Pass** desenvolvi
 
 Este projeto demonstra habilidades essenciais em análise e visualização de dados, utilizando recursos avançados do Excel para transformar dados brutos em insights acionáveis sobre o desempenho e comportamento de assinaturas do serviço Xbox Game Pass.
 
-## 🖼️ Preview do Dashboard
-
-![Dashboard Preview](dashboard/dashboard-preview.png)
+## 🖼️ Dashboard
 
 *Dashboard mostrando análise de assinaturas do Xbox Game Pass com métricas de receita e distribuição de usuários.*
 
@@ -154,7 +152,6 @@ Desenvolvido como parte do Bootcamp Santander 2025 - Ciência de Dados com Pytho
 ## 🔗 Links Úteis
 
 - [Digital Innovation One (DIO)](https://www.dio.me/)
-- [Bootcamp Santander 2025](https://www.dio.me/bootcamp/santander)
 - [Documentação do Excel](https://support.microsoft.com/excel)
 
 ## ⭐ Suporte
